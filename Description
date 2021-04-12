@@ -1,0 +1,6 @@
+Description
+-------------
+
+Here a new thread is created mythread and uses the concept of signal and slot.
+slots are added to three push buttons,start stop and reset to begin ,stop and reset the counter to zero.
+The run function of the thread is called as the thread starts.
